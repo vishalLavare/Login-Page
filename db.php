@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost'; // your server
-$dbname = 'insta'; // your database name
+$dbname = 'login_system'; // your database name
 #$username = 'root'; // your database username
 #$password = ''; // your database password
 
