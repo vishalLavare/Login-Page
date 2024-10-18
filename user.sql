@@ -1,3 +1,3 @@
-create database insta;
+create database login_system;
 use login_system;
 CREATE TABLE users(id int not null primary key,name varchar(30),email varchar(25),password varchar(30));
